@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Araiz bin Saqib</h1>
 <h3 align="center">A passionate DevOps Engineer.</h3>
 
-- 👯 I’m looking to collaborate on **Cloud Projects**
+- 👯 I’m looking to collaborate on **Cloud DevOps Projects**
 
-- 🤝 I’m looking for help with **DevOps**
+- 🤝 I’m looking for work reated to **DevOps**
 
-- 👨‍💻 All of my projects are available at [https://medium.com/@araizbinsaqib](https://medium.com/@araizbinsaqib)
+- 👨‍💻 All of my previous projects are available at [https://medium.com/@araizbinsaqib](https://medium.com/@araizbinsaqib)
 
-- 💬 Ask me about **MERN stack and DevOps**
+- 💬 Ask me about **AWS and DevOps**
 
 - 📫 How to reach me **araizbinsaqib@gmail.com**
 
